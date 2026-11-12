@@ -1,2 +1,3 @@
 Some more text
 Some new text aka bugFix
+Some more new text to this file
