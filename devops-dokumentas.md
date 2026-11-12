@@ -11,4 +11,6 @@ DevOps yra profesija kurioje žmonės planuoja, kuria koda, analizuoja ir taiso 
 
 DevOps naudingas komandai, nes pagreitina visa kūrimo procesą. Taip pat Sutaupo imonei pinigelių :)
 
+## -d ir -D skirtumas
 
+-d tikrina are branch yra push'intas ir jei taip tik tada trina, o -D trina ir neklausia nieko
