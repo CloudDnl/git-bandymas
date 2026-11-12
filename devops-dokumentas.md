@@ -7,4 +7,8 @@ DevOps yra profesija kurioje žmonės planuoja, kuria koda, analizuoja ir taiso 
 1. Blogas debugging. Lieka klaidos kurios pasiekia vartotojus. 
 2. Sudėtinga naudoti sukurta programą. 
 
+## Kodėl DevOps
+
+DevOps naudingas komandai, nes pagreitina visa kūrimo procesą. Taip pat Sutaupo imonei pinigelių :)
+
 
